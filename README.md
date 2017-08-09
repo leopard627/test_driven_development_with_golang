@@ -4,7 +4,8 @@
 
 
 # test_driven_development_with_golang
-##(Korean version)
+
+# 한국어 (Korean version)
 
 
 ## Go unit-test intro 
